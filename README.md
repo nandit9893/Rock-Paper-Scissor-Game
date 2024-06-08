@@ -14,4 +14,4 @@ The Rock, Paper, Scissor game is a classic hand game that's been enjoyed for gen
 - **HTML**: Forms the backbone of the game, structuring the content and providing the essential elements such as buttons for player choices.
 - **CSS**: Adds style and layout to the game, creating a visually appealing interface with responsive design, vibrant colors, and engaging animations.
 - **JavaScript**: Powers the game's logic, handling user inputs, determining game outcomes, updating scores, and providing dynamic interactivity.
-  ![RPSG Image](Rock, Paper, Scissor Game/RPSG.png)
+  ![RPSG Image](Rock%2C%20Paper%2C%20Scissor%20Game/RPSG.png)
